@@ -1,6 +1,6 @@
 # IIS---Perfect-Forward-Secrecy-and-TLS-1.2
 
-I am not the original auther of this PowerShell script. 
+I am not the original author of this PowerShell script. 
 
 You can find the original post here - https://www.hass.de/content/setup-your-iis-ssl-perfect-forward-secrecy-and-tls-12
 
